@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<font face="Helvetica"
+<font color="#FFFFF">
+<body bgcolor=”C60000">
+
+<h1>The Pinnacle of Motorsport: Formula 1</h1>
+<h3> (1950-Present)</h3>
+
+<strong>Formula 1 is the highest class of international racing for open-wheel single-seater formula racing cars.</strong>
+
+<h2>About Formula 1</h2>
+
+<p>In Formula 1 there are 10 teams and 20 drivers, with 2 drivers on each team. The Constructor's Championship is given to the team with the most points, while the Drivers Championship is given to the driver with the most points.</p>
+
+
+<style type="text/css">
+.myTable { background-color:##FFFFF;border-collapse:collapse; }
+.myTable th { background-color:#000;color:red;width:50%; }
+.myTable td, .myTable th { padding:4px;border:1px solid #000; }
+</style>
+<table class="myTable">
+<tr>
+<th>Top 4 Formula One Teams</th><th>
+</tr>
+<tr>
+<td>Mercedes</td><td>Red Bull</td>
+</td>
+<tr>
+<td>Ferrari</td><td>McLaren</td>
+</tr>
+</table>
+
+<h3>Top 5 Formula One Drivers</h3>
+<p></p>
+<marquee behavior="alternate">Lewis Hamilton, Charles Leclerc, George Russell, Carlos Sainz, Max Verstappen</marquee>
+
+<img src="https://www.formula1.com/content/dam/fom-website/manual/Misc/2021manual/WinterDecember/GettyImages-1307049906.jpg" width="500" height="302" alt="F1 Drivers" />
+
+<P>The highest salary for a driver is...<BR>
+<input type="radio" name="The highest salary for a driver is..." 
+value="$3 Million">$3 Million<BR>
+<input type="radio" name="The highest salary for a driver is..." value="$5 Million">$5 Million<BR>
+<input type="radio" name="The highest salary for a driver is..." value="$20 Million">$20 Million<BR>
+<input type="radio" name="The highest salary for a driver is..." value="$55 Million"><b><i>$55 Million</i></b><BR>
+</p>
+
+<p>Teams and drivers make their money from:</p>
+<ul>
+<li>Sponsorships</li>
+<li>Revenue Sharing</li>
+<li>Merchandise</li>
+<li>Ticket Sales</li>
+</ul>
+
+<hr>
+
+<h2>Origins of Formula One</h2>
+
+<p>The Formula One series originated with the European Championship of Grand Prix motor racing of the 1920s and 1930s. The formula consists of a set of rules that all participants' cars must meet. Formula One was a new formula agreed upon during 1946. The first Formula 1 race was the <b>1946 Turin Grand Prix</b>. A number of Grand Prix racing organisations had laid out rules for a world championship before <i>World War II</i>, but due to the suspension of racing during the conflict, the World Drivers' Championship did not become formalised until 1947. The first world championship race took place at Silverstone in the United Kingdom in 1950. Giuseppe Farina, in his Alfa Romeo, won the first World Championship for Drivers in 1950, narrowly defeating his teammate Juan Manuel Fangio. However, Fangio won the title in 1951, 1954, 1955, 1956, and 1957 and his record of five World Championship titles stood for 45 years, until Michael Schumacher took his sixth title in 2003.</p>
+
+<img src="https://www.formula1.com/content/dam/fom-website/manual/1950vs2020/GettyImages-88759211.jpg.transform/9col/image.jpg" width="250" height="145" alt="F1 Drivers" />
+
+<h4>A Helpful Video for New Fans:</h4>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g-NUz0pQC0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<figure>
+<figcaption>Ferrari's V10 Engine (2004)</figcaption>
+<audio controls> 
+<source src="C:\Users\gerst\Downloads\f1_ferrari_v10.mp3" type="audio/mp3">
+<code>audio</code> element.
+</audio>
+</figure>
+
+<h5>Source:</h5>
+<a href="https://en.wikipedia.org/wiki/Formula_One">F1 Wiki</a>
+
+</body>
+</html>
